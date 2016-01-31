@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A0A8C0'
+    - '#802820'
+    - '#487088'
+    - '#B86808'
+    - '#F0C058'
+  brandStrength: 0.422663
+  lightness: 0.300181
+  rhythmicContrast: 0.572329
+  saturation: 0.226826
+cta: {}
+layout_spectrum: 0.030405
+name: davegomes
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.841116
